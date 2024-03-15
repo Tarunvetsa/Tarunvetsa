@@ -16,7 +16,7 @@
 
 
 # 💫 About Me:
-📖 CSE final year student at IIT Bhilai<br>🔭 I’m currently interested to join as Software Engineer<br>👯 I’m looking to collaborate on Full stack using MERN<br>🤝 I’m  always ready to collaborate on projects.<br>🚀 Passionate about exploring new technologies and always up for a coding challenge.<br>
+📖 CSE final year student at IIT Bhilai<br>🔭 I’m currently interested to join as Software Engineer<br>👯 I’m looking to collaborate on Full stack using React+Django<br>🤝 I’m  always ready to collaborate on projects.<br>🚀 Passionate about exploring new technologies and always up for a coding challenge.<br>
 
 
 # 💻 Tech Stack:
